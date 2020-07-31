@@ -1,0 +1,33 @@
+body{
+    background-image: linear-gradient(to bottom,#82FD00 , #F5FD00);
+    border-style: dashed;
+}
+
+@media only screen and (max-width: 600px){
+    body{
+        padding-top: 50%;
+        padding-bottom: 50%;
+    }
+}
+/* th, td{
+    font-size:10vw
+} */
+/*
+#time{
+    font-size: 350px;
+    color: red;
+    text-align: center;
+}
+
+#date{
+    font-size: 150px;
+    color: red;
+    text-align: center;
+}
+
+#table{
+    font-size: 100px;
+    color: red;
+    text-align: center;
+}
+ */
